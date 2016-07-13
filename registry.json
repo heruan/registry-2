@@ -115,6 +115,7 @@
   "aurelia-binding": "npm:aurelia-binding",
   "aurelia-bootstrap-switch": "github:drdwilcox/aurelia-bootstrap-switch",
   "aurelia-bootstrapper": "npm:aurelia-bootstrapper",
+  "aurelia-breadcrumbs": "npm:aurelia-breadcrumbs",
   "aurelia-breeze": "npm:aurelia-breeze",
   "aurelia-bs-modal": "github:pwkad/aurelia-bs-modal",
   "aurelia-cmdrjs": "github:cmdrjs/aurelia-cmdrjs",
